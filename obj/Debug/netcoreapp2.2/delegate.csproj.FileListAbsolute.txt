@@ -1,0 +1,10 @@
+E:\Projects\Develop\_DemoProjects\delegate\obj\Debug\netcoreapp2.2\delegate.csprojAssemblyReference.cache
+E:\Projects\Develop\_DemoProjects\delegate\obj\Debug\netcoreapp2.2\delegate.AssemblyInfoInputs.cache
+E:\Projects\Develop\_DemoProjects\delegate\obj\Debug\netcoreapp2.2\delegate.AssemblyInfo.cs
+E:\Projects\Develop\_DemoProjects\delegate\bin\Debug\netcoreapp2.2\delegate.deps.json
+E:\Projects\Develop\_DemoProjects\delegate\bin\Debug\netcoreapp2.2\delegate.runtimeconfig.json
+E:\Projects\Develop\_DemoProjects\delegate\bin\Debug\netcoreapp2.2\delegate.runtimeconfig.dev.json
+E:\Projects\Develop\_DemoProjects\delegate\bin\Debug\netcoreapp2.2\delegate.dll
+E:\Projects\Develop\_DemoProjects\delegate\bin\Debug\netcoreapp2.2\delegate.pdb
+E:\Projects\Develop\_DemoProjects\delegate\obj\Debug\netcoreapp2.2\delegate.dll
+E:\Projects\Develop\_DemoProjects\delegate\obj\Debug\netcoreapp2.2\delegate.pdb
